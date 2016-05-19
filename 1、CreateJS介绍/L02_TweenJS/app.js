@@ -1,5 +1,5 @@
 /**
- * create CreateJS介绍-TweenJS-app.js by dpp on 2016/1/4
+ * create 2、CreateJS介绍-TweenJS-app.js by dpp on 2016/1/4
  * @authors Your Name (you@example.org)
  * @date    2016-01-04 01:13:34
  * @version $Id$

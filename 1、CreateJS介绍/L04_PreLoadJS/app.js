@@ -1,5 +1,5 @@
 /**
- * create CreateJS介绍-PreLoadJS-app.js by dpp on 2016/1/4
+ * create 4、CreateJS介绍-PreLoadJS-app.js by dpp on 2016/1/4
  * @authors Your Name (you@example.org)
  * @date    2016-01-04 01:32:58
  * @version $Id$
